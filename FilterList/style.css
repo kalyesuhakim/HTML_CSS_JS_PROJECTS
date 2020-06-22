@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.list{
+    width: 620px;
+    height: 920px;
+    justify-content: center;
+}
